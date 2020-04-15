@@ -1771,6 +1771,7 @@ tool | spring-beans | https://www.springframework.org/schema/tool/spring-tool.xs
 **Spring IoC 容器装配注解**
 
 Spring 注解 | 场景说明 | 起始版本
+|---|---|---|
 @ImportResource | 替换 XML 元素 <import> | 3.0
 @Import | 导入 Configuration Class | 3.0
 @ComponentScan | 扫描指定 package 下标注 Spring 模式注解的类 | 3.1
