@@ -141,6 +141,7 @@ BeanFactory 的默认实现为 DefaultListableBeanFactory，其中 Bean生命周
 ## 25 Spring 內建 XML Schema 常见有哪些？
 
 命名空间 | 所属模块 | Schema 资源 URL
+|---|---|---|
 beans | spring-beans | https://www.springframework.org/schema/beans/spring-beans.xsd
 context | spring-context | https://www.springframework.org/schema/context/springcontext.xsd
 aop | spring-aop | https://www.springframework.org/schema/aop/spring-aop.xsd
